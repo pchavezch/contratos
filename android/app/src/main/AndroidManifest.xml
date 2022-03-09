@@ -2,7 +2,7 @@
     package="org.gocorporation.modulo_contratos">
    <application
         android:label="modulo_contratos"
-        android:name="${applicationName}"
+        android:name="CONTRATOS TRUSTFIDUCIARIA"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
